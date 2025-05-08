@@ -10,7 +10,7 @@ This project fine-tunes a pretrained ResNet-18 model on the Caltech-101 dataset.
 pip install torch torchvision tensorboard
 ```
 
-2. **Download Caltech-101**: Place extracted folder at `./caltech-101`
+2. **Download Caltech-101**: Place extracted folder at `caltech-101/101_ObjectCategories`
 
 3. **Train**
 ```bash
